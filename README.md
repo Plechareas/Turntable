@@ -57,7 +57,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/022920f1-e1e3-4011-837c-5e6792308687)
 
-## Contact
-
-
-If you have any questions or suggestions, feel free to open an issue or contact me at [your-email@example.com].
